@@ -1,0 +1,5 @@
+/Users/cmaher/projects/mustache-cat/Core/Messaging/Messaging/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/cmaher/projects/mustache-cat/Core/Messaging/Messaging/bin/Debug/Messaging.dll.mdb
+/Users/cmaher/projects/mustache-cat/Core/Messaging/Messaging/bin/Debug/Messaging.dll
+/Users/cmaher/projects/mustache-cat/Core/Messaging/Messaging/obj/Debug/Messaging.dll
+/Users/cmaher/projects/mustache-cat/Core/Messaging/Messaging/obj/Debug/Messaging.dll.mdb
