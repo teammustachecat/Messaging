@@ -1,3 +1,0 @@
-/Users/cmaher/projects/mustache-cat/Core/Messaging/Messaging/obj/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
-/Users/cmaher/projects/mustache-cat/Core/Messaging/Messaging/bin/Release/Messaging.dll
-/Users/cmaher/projects/mustache-cat/Core/Messaging/Messaging/obj/Release/Messaging.dll

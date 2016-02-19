@@ -1,3 +1,5 @@
-test-results
-*Test/bin
-*Test/obj
+test-results/
+bin/
+obj/
+*.mdb
+*.dll
